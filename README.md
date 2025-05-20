@@ -9,7 +9,7 @@ This project explores sales data from a Superstore, with the help of Pandas for 
 - Git & GitHub
 
 ## 📁 Dataset
-- [Superstore Sales Dataset]((https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)) — contains sales transactions including order date, ship date, category, sales, region, etc.
+- [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) — contains sales transactions including order date, ship date, category, sales, region, etc.
 
 ## 🔍 Key Insights
 - The **West region** has the highest number of Sales.
