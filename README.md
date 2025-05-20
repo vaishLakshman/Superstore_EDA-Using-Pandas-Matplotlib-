@@ -19,11 +19,11 @@ This project explores sales data from a Superstore, with the help of Pandas for 
 - Most purchased product is **Staple Envelope**.
 
 ## 📈 Visualizations
-![Sales by Category](images/sales_by_category.png)
-![Top Customers by Sales](images/top_customers.png)
+![Sales by Category](images/rev_by_category.png)
+![Top Customers by Sales](images/top_10_custs_by_rev.png)
+![Yearly Sales Trend](images/rev_trend_yearly.png)
 
 ## 🚀 How to Run
 1. Clone the repo
 2. Install requirements: `pip install -r requirements.txt`
 3. Open the notebook: `jupyter notebook notebooks/analysis.ipynb`
-
